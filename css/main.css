@@ -222,3 +222,10 @@ footer {
 	text-align: center;
 	margin-top: 30px;
 }
+.testGit b {
+	color: red;
+	display: block;
+	font-family: "NautilusPompiliusRegular";
+	font-size: 10px;
+	text-align: center;
+}
